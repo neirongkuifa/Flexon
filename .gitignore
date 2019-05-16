@@ -1,3 +1,3 @@
-*
-!.git*
-!*.java
+.idea/
+Flexon.iml
+out/*
